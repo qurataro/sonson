@@ -6,7 +6,7 @@
 
 ファミコン版 ソンソンの遅延解消したIPSパッチです。
 
-![HSD0ZtPakAA5tC9](.\image\title.jpg)
+![HSD0ZtPakAA5tC9](./image/title.jpg)
 
 TUNED BY KYURATARO と表示されているのはゲームデータに Q の文字がないため KY で代用しています。
 
@@ -38,7 +38,7 @@ https://web.save-editor.com/tool/rom_patcher_for_ips.html
 
 7zip についてるタグ確認機能
 
-![image-20261102205359705](.\image\7zip-CRC32.png)
+![image-20261102205359705](./image/7zip-CRC32.png)
 
 
 
